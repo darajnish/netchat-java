@@ -40,7 +40,7 @@ Once the server is running, it's time to run the **ChatClient** which would conn
 java -jar ChatClient/dist/ChatClient.jar
 ```
 
-When both are setup, we can use the crappy GUI to chat with each other.
+When both are setup, we can use the crappy GUI to chat using the server and client.
 
 
 
